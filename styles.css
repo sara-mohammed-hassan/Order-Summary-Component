@@ -92,7 +92,6 @@ body {
 
 .proceed-button {
     background-color: hsl(245, 75%, 65%);
-    background-color: hsl(245, 75%, 52%);
     box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
     color: white;
     border: none;
